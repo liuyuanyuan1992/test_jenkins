@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Dec 18 23:54:08 CST 2019","Wed Dec 18 23:54:12 CST 2019","4518","","test_case01","TestXueqiu","","","test_xueqiu","
+        对雪球app的登录界面进行测试
+        "

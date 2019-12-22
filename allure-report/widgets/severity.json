@@ -1,0 +1,11 @@
+[ {
+  "uid" : "62b673bcfc79bed4",
+  "name" : "test_xueqiu",
+  "time" : {
+    "start" : 1576684448110,
+    "stop" : 1576684452628,
+    "duration" : 4518
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

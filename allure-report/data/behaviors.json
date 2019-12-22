@@ -1,0 +1,26 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "test_xueqiu_module1",
+    "children" : [ {
+      "name" : "test_xueqiu_login",
+      "children" : [ {
+        "name" : "test_xueqiu",
+        "uid" : "62b673bcfc79bed4",
+        "parentUid" : "bb914135eeb928b8a943af6120726b33",
+        "status" : "passed",
+        "time" : {
+          "start" : 1576684448110,
+          "stop" : 1576684452628,
+          "duration" : 4518
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "bb914135eeb928b8a943af6120726b33"
+    } ],
+    "uid" : "6d92dca9dc9a211ff5dfe0f0f078721e"
+  } ]
+}

@@ -1,0 +1,26 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "liuyuanuandembp",
+    "children" : [ {
+      "name" : "83283-MainThread",
+      "children" : [ {
+        "name" : "test_xueqiu",
+        "uid" : "62b673bcfc79bed4",
+        "parentUid" : "8afe187593acde2a26d971d16996aa8f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1576684448110,
+          "stop" : 1576684452628,
+          "duration" : 4518
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "8afe187593acde2a26d971d16996aa8f"
+    } ],
+    "uid" : "a691bc55abc62a0293fad0c4bb4abfef"
+  } ]
+}
